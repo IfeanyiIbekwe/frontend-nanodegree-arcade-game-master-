@@ -83,5 +83,5 @@ body {
 }
  @font-face {
      font-family: "PressStart";
-     src: url("frontend-nanodegree-arcade-game-master-/Fonts/PressStart.ttf");
+     src: url("../fonts/PressStart.ttf");
 }
