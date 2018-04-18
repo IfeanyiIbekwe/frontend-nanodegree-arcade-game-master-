@@ -83,5 +83,5 @@ body {
 }
  @font-face {
      font-family: "PressStart";
-     src: url("fonts/PressStart.ttf");
+     src: url("../fonts/PressStart.ttf")format('truetype');
 }
