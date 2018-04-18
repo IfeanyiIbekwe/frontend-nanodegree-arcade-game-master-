@@ -1,6 +1,6 @@
 body {
      text-align: center;
-     font-family: "PressStart";
+     font-family: 'PressStart2PRegular';
      margin-top: 0px;
 }
  .modalHeader{
@@ -30,7 +30,7 @@ body {
 /* * Functional Modal using only HTML & CSS * Tutorial at http://www.webdesignerdepot.com/2012/10/creating-a-modal-window-with-html5-and-css3/ */
  .welcomeModalDialog{
      position: fixed;
-     font-family: PressStart, Helvetica, sans-serif;
+     font-family: 'PressStart2PRegular';, Helvetica, sans-serif;
      font-size: 10px;
      top: 0;
      right: 0;
@@ -81,7 +81,4 @@ body {
  .close:hover {
      background: #00d9ff;
 }
- @font-face {
-     font-family: "PressStart";
-     src: url("../fonts/PressStart.ttf")format('truetype');
-}
+ 
