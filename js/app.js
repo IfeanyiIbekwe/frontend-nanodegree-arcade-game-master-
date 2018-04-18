@@ -116,7 +116,7 @@ highScore(){
 
  $('#highScoreBoard').css('display','block') ;
 
-  var URL = encodeURIComponent("http://ww");
+  var URL = encodeURIComponent("https://ifeanyiibekwe.github.io/frontend-nanodegree-arcade-game-master-/");
    var text = encodeURIComponent("I scored " + highestScore + " on Frogger!")
   $('#highScoreBoard').html ("High Score: " + score +"<br>"+'<a class="twitter-share-button" id="tweet-score" target="_blank" href="https://twitter.com/share?url='+ URL +'&text='+ text +'">Tweet Your Score</a>');
 },
